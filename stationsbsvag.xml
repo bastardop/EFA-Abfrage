@@ -1,0 +1,353 @@
+
+<rows>
+    <row _id="26000004" place="Braunschweig" name="Ackerstraße" lat="52256116" lon="10549312" lines="TM4,B422,B730"></row>
+    <row _id="26000005" place="Braunschweig" name="Adam-Opel-Straße" lat="52312360" lon="10500800" lines="B484"></row>
+    <row _id="26000006" place="Braunschweig" name="Jägersruh Siedlung" lat="52224564" lon="10552384" lines="B471"></row>
+    <row _id="26000008" place="Braunschweig" name="Alsterplatz" lat="52249120" lon="10477944" lines="TM3"></row>
+    <row _id="26000009" place="Braunschweig" name="Alte Dorfstraße" lat="52290912" lon="10600742" lines="B427"></row>
+    <row _id="26000010" place="Braunschweig" name="Alte Waage" lat="52266500" lon="10520096" lines="TM4"></row>
+    <row _id="26000012" place="Braunschweig" name="Alter Postweg" lat="52326688" lon="10513814" lines=""></row>
+    <row _id="26000013" place="Braunschweig" name="Bertramstraße" lat="52259880" lon="10536436" lines="TM4,TM5"></row>
+    <row _id="26000014" place="Braunschweig" name="Altmarkstraße" lat="52316704" lon="10530044" lines=""></row>
+    <row _id="26000015" place="Braunschweig" name="Altstadtmarkt" lat="52262952" lon="10517676" lines="BM11,BM13,BM16,B411,B413,B416,B418,B422,B443,B450,B480,B560"></row>
+    <row _id="26000018" place="Braunschweig" name="Am Berge" lat="52320848" lon="10525098" lines="B424"></row>
+    <row _id="26000019" place="Braunschweig" name="Am Bruchkamp" lat="52306496" lon="10459666" lines="BM16,B416,B433"></row>
+    <row _id="26000020" place="Braunschweig" name="Am Bülten" lat="52280476" lon="10536622" lines="BM16,B416,B436"></row>
+    <row _id="26000021" place="Braunschweig" name="Pillmannstraße" lat="52316968" lon="10474442" lines="B484"></row>
+    <row _id="26000022" place="Braunschweig" name="Am Dorfplatz" lat="52303860" lon="10442908" lines="BM16,B416,B433"></row>
+    <row _id="26000023" place="Braunschweig" name="Am Forst" lat="52301604" lon="10568888" lines="BM13,B413,B433"></row>
+    <row _id="26000025" place="Braunschweig" name="Am Grasplatz" lat="52305396" lon="10466228" lines="BM16,B416,B433,B480"></row>
+    <row _id="26000026" place="Braunschweig" name="Am Hafen" lat="52309884" lon="10486068" lines="B414"></row>
+    <row _id="26000027" place="Braunschweig" name="J.-Kühn-Institut" lat="52275496" lon="10569724" lines="BM13,B413"></row>
+    <row _id="26000028" place="Braunschweig" name="Am Jödebrunnen" lat="52253956" lon="10495972" lines="TM3,TM5"></row>
+    <row _id="26000029" place="Braunschweig" name="Am Kalkwerk" lat="52221748" lon="10565530" lines="BM11,B411,B431"></row>
+    <row _id="26000031" place="Braunschweig" name="Am Klei" lat="52339904" lon="10575438" lines="BM13,B413,B424"></row>
+    <row _id="26000032" place="Braunschweig" name="Am Klosterkamp" lat="52245448" lon="10507736" lines="BM13,B413"></row>
+    <row _id="26000033" place="Braunschweig" name="Am Lehmanger" lat="52241144" lon="10488454" lines="TM5,B443"></row>
+    <row _id="26000034" place="Braunschweig" name="Am Magnitor" lat="52261196" lon="10532658" lines="TM4,TM5"></row>
+    <row _id="26000036" place="Braunschweig" name="Am Meerbusch" lat="52341600" lon="10577114" lines="BM13,B413,B424"></row>
+    <row _id="26000037" place="Braunschweig" name="Am Mühlengraben" lat="52284872" lon="10501074" lines="BM16,B416"></row>
+    <row _id="26000040" place="Braunschweig" name="Am Platz" lat="52321544" lon="10534260" lines="B424"></row>
+    <row _id="26000042" place="Braunschweig" name="Am Queckenberg" lat="52246488" lon="10487492" lines="TM5"></row>
+    <row _id="26000043" place="Braunschweig" name="Am Remenhof" lat="52286132" lon="10590032" lines="B417,B427"></row>
+    <row _id="26000044" place="Braunschweig" name="Schlehenhang" lat="52293612" lon="10506440" lines="B454"></row>
+    <row _id="26000045" place="Braunschweig" name="Am Steinring" lat="52325040" lon="10555050" lines="BM13,B413,B424"></row>
+    <row _id="26000046" place="Braunschweig" name="Am Wassertor" lat="52258400" lon="10519526" lines="BM19,B461,B601,B603,B620,B631"></row>
+    <row _id="26000047" place="Braunschweig" name="Aussigstraße" lat="52279516" lon="10496628" lines="B422"></row>
+    <row _id="26000049" place="Braunschweig" name="Amalienplatz" lat="52272456" lon="10506894" lines="BM16,BM19,BM29,B416,B433,B450,B480,B560"></row>
+    <row _id="26000051" place="Braunschweig" name="Maienstraße" lat="52263876" lon="10501066" lines="BM19,BM29,B422,B461"></row>
+    <row _id="26000052" place="Braunschweig" name="An der Horst" lat="52260368" lon="10485700" lines="B418"></row>
+    <row _id="26000053" place="Braunschweig" name="Daimlerstraße" lat="52309484" lon="10507816" lines="B484"></row>
+    <row _id="26000055" place="Braunschweig" name="An der Rothenburg" lat="52237612" lon="10488396" lines="TM5"></row>
+    <row _id="26000056" place="Braunschweig" name="Anklamstraße" lat="52228496" lon="10540534" lines="TM1,T2,BSEV1,BSEV2"></row>
+    <row _id="26000058" place="Braunschweig" name="Korfesstraße" lat="52259824" lon="10548840" lines="B422"></row>
+    <row _id="26000059" place="Braunschweig" name="Bahnhof Gliesmarode" lat="52277300" lon="10550080" lines="R,TM3,B230,B433,B443"></row>
+    <row _id="26000060" place="Braunschweig" name="Bastholzsiedlung" lat="52309104" lon="10542920" lines="B436"></row>
+    <row _id="26000061" place="Braunschweig" name="Bebelhof" lat="52244260" lon="10535544" lines="BM11,B411,B422,B431"></row>
+    <row _id="26000062" place="Braunschweig" name="Bechtsbütteler Weg" lat="52323988" lon="10551036" lines="BM13,B413,B424"></row>
+    <row _id="26000063" place="Braunschweig" name="Beethovenstraße" lat="52277560" lon="10545386" lines="B433,B443"></row>
+    <row _id="26000064" place="Braunschweig" name="Bei dem Gerichte" lat="52278160" lon="10504568" lines="BM16,B416,B480"></row>
+    <row _id="26000068" place="Braunschweig" name="Biberweg" lat="52283560" lon="10502582" lines="BM16,B416"></row>
+    <row _id="26000070" place="Braunschweig" name="Bindestraße" lat="52274056" lon="10539666" lines="TM3"></row>
+    <row _id="26000071" place="Braunschweig" name="Blindenzentrum" lat="52304460" lon="10548638" lines="B436"></row>
+    <row _id="26000072" place="Braunschweig" name="Bockshornweg" lat="52288048" lon="10495054" lines="BM16,B416"></row>
+    <row _id="26000075" place="Braunschweig" name="Schloss" lat="52261888" lon="10525696" lines="TM1,TM2,TM3,T4,TM5,B420,B730"></row>
+    <row _id="26000076" place="Braunschweig" name="Botanischer Garten" lat="52270372" lon="10534148" lines="TM3,BM16,B416,B443"></row>
+    <row _id="26000077" place="Braunschweig" name="Breitenhop" lat="52327912" lon="10560020" lines="BM13,B413,B424"></row>
+    <row _id="26000078" place="Braunschweig" name="Brockenblick" lat="52229888" lon="10480804" lines="B465"></row>
+    <row _id="26000079" place="Braunschweig" name="Katholischer Friedhof" lat="52253176" lon="10569668" lines="B412,B431,B452,B730"></row>
+    <row _id="26000080" place="Braunschweig" name="Johannes-Selenka-Platz" lat="52257808" lon="10503966" lines="BM19,BM29,B443,B461"></row>
+    <row _id="26000081" place="Braunschweig" name="Westbahnhof" lat="52250280" lon="10505968" lines="B443"></row>
+    <row _id="26000083" place="Braunschweig" name="Buchhorstblick" lat="52278236" lon="10606366" lines="B427"></row>
+    <row _id="26000084" place="Braunschweig" name="Bültenweg" lat="52275440" lon="10533604" lines="BM19,B433"></row>
+    <row _id="26000085" place="Braunschweig" name="Bürgerpark" lat="52250796" lon="10529386" lines="TM1,T2,BSEV1,BSEV2,B420"></row>
+    <row _id="26000086" place="Braunschweig" name="Burgundenplatz" lat="52287384" lon="10531950" lines="TM2,BM16,B416"></row>
+    <row _id="26000087" place="Braunschweig" name="Butterberg" lat="52296456" lon="10535474" lines=""></row>
+    <row _id="26000088" place="Braunschweig" name="Campestraße" lat="52256752" lon="10533486" lines="TM1,TM2,T4,T5,BM19,BM29,B420,B461"></row>
+    <row _id="26000089" place="Braunschweig" name="Carl-Giesecke-Straße" lat="52319632" lon="10470702" lines="B484"></row>
+    <row _id="26000090" place="Braunschweig" name="Klinikum Celler Straße" lat="52275128" lon="10505272" lines="BM16,B416,B480"></row>
+    <row _id="26000091" place="Braunschweig" name="Christian-Pommer-Straße" lat="52318684" lon="10479704" lines="B484"></row>
+    <row _id="26000095" place="Braunschweig" name="Cyriaksring" lat="52255144" lon="10506338" lines="TM3,TM5,BM19,BM29,B620,B631"></row>
+    <row _id="26000096" place="Braunschweig" name="DLR" lat="52314600" lon="10559668" lines="BM13,B413,B436"></row>
+    <row _id="26000097" place="Braunschweig" name="Carl-Miele-Straße" lat="52313920" lon="10510312" lines="TM1"></row>
+    <row _id="26000099" place="Braunschweig" name="Dammwiese" lat="52317836" lon="10527898" lines="B424"></row>
+    <row _id="26000101" place="Braunschweig" name="Dedekindstraße" lat="52242924" lon="10566084" lines="B412"></row>
+    <row _id="26000109" place="Braunschweig" name="Donaustraße" lat="52249044" lon="10486962" lines="TM3,TM5,B443,B445,B455"></row>
+    <row _id="26000110" place="Braunschweig" name="Dorflage" lat="52242008" lon="10588176" lines="B412"></row>
+    <row _id="26000111" place="Braunschweig" name="Dreisch" lat="52307696" lon="10496362" lines="B414"></row>
+    <row _id="26000112" place="Braunschweig" name="Dresdenstraße" lat="52234144" lon="10543628" lines="B431"></row>
+    <row _id="26000114" place="Braunschweig" name="Stresemannstraße" lat="52268964" lon="10566578" lines="BM13,B413,B418"></row>
+    <row _id="26000115" place="Braunschweig" name="Eckenerstraße" lat="52313444" lon="10568002" lines="BM13,B413"></row>
+    <row _id="26000116" place="Braunschweig" name="Eichhahnweg" lat="52292520" lon="10560594" lines="BM13,B413,B433"></row>
+    <row _id="26000117" place="Braunschweig" name="Zum Zoll" lat="52297168" lon="10561036" lines="BM13,B413,B433"></row>
+    <row _id="26000121" place="Braunschweig" name="Emsstraße" lat="52250920" lon="10490804" lines="TM3,TM5"></row>
+    <row _id="26000122" place="Braunschweig" name="Ekbertstraße" lat="52252288" lon="10519010" lines="BM13,BM19,BM29,B413"></row>
+    <row _id="26000123" place="Braunschweig" name="Erfurtplatz" lat="52230232" lon="10536832" lines="TM1,T2,BSEV2,B431"></row>
+    <row _id="26000124" place="Braunschweig" name="Ernst-Böhme-Straße" lat="52310264" lon="10493076" lines="B414"></row>
+    <row _id="26000126" place="Braunschweig" name="Essener Straße" lat="52290456" lon="10560990" lines="BM13,B413,B433,B443"></row>
+    <row _id="26000130" place="Braunschweig" name="Europaplatz" lat="52257580" lon="10516072" lines="TM3,TM5,B461,B601,B603,B620,B631"></row>
+    <row _id="26000131" place="Braunschweig" name="Eutschenwinkel" lat="52205712" lon="10509126" lines="BM13,B413"></row>
+    <row _id="26000132" place="Braunschweig" name="Bundesallee" lat="52286164" lon="10450994" lines="BM11,B411,B433,B461,B560"></row>
+    <row _id="26000133" place="Braunschweig" name="Fabrikstraße" lat="52248268" lon="10511434" lines="BM19,BM29,B601,B603,B620,B631"></row>
+    <row _id="26000134" place="Braunschweig" name="Feuerbrunnen" lat="52325936" lon="10559276" lines="BM13,B413,B424"></row>
+    <row _id="26000135" place="Braunschweig" name="Flughafen" lat="52315984" lon="10560040" lines="B436"></row>
+    <row _id="26000136" place="Braunschweig" name="Friedrich-Seele-Straße" lat="52241268" lon="10509176" lines="BM13,B413"></row>
+    <row _id="26000137" place="Braunschweig" name="Friedrich-Wilhelm-Platz" lat="52259788" lon="10519282" lines="TM3,TM5,BM11,BM13,BM16,BM29,B411,B413,B416,B418,B422,B443,B450,B461,B480,B560,B603,B620"></row>
+    <row _id="26000139" place="Braunschweig" name="Hermannstraße" lat="52273252" lon="10502966" lines="B422"></row>
+    <row _id="26000140" place="Braunschweig" name="Freyastraße" lat="52284188" lon="10538010" lines="BM16,B416,B436"></row>
+    <row _id="26000141" place="Braunschweig" name="In den Springäckern" lat="52220152" lon="10562664" lines="B431"></row>
+    <row _id="26000142" place="Braunschweig" name="Luftfahrtbundesamt" lat="52314240" lon="10545328" lines="BM13,B413,B436"></row>
+    <row _id="26000146" place="Braunschweig" name="Georg-Eckert-Straße" lat="52262508" lon="10526536" lines="TM4,TM5"></row>
+    <row _id="26000147" place="Braunschweig" name="Gesundheitsamt" lat="52286760" lon="10519062" lines="TM1,TM2"></row>
+    <row _id="26000149" place="Braunschweig" name="Gliesmaroder Straße" lat="52272808" lon="10537000" lines="TM3,BM16,BM19,BM29,B230,B416,B436,B443"></row>
+    <row _id="26000150" place="Braunschweig" name="Glogaustraße" lat="52227608" lon="10519470" lines="B431"></row>
+    <row _id="26000151" place="Braunschweig" name="Görlitzstraße" lat="52231248" lon="10521672" lines="B431"></row>
+    <row _id="26000152" place="Braunschweig" name="Goslarsche Straße" lat="52261372" lon="10508526" lines="B418,B422,B443"></row>
+    <row _id="26000153" place="Braunschweig" name="Mozartstraße" lat="52275904" lon="10544610" lines="TM3"></row>
+    <row _id="26000157" place="Braunschweig" name="Grenzweg" lat="52284952" lon="10583790" lines="TM3"></row>
+    <row _id="26000159" place="Braunschweig" name="Grotrian-Steinweg-Straße" lat="52316784" lon="10499146" lines=""></row>
+    <row _id="26000160" place="Braunschweig" name="Grüner Jäger" lat="52262036" lon="10586694" lines="B418"></row>
+    <row _id="26000161" place="Braunschweig" name="Güldenstraße" lat="52262540" lon="10514102" lines="BM11,BM13,BM16,B411,B413,B416,B418,B422,B443,B450,B480,B560"></row>
+    <row _id="26000162" place="Braunschweig" name="Holzhof" lat="52256704" lon="10517960" lines="BM13,BM19,BM29,B413"></row>
+    <row _id="26000166" place="Braunschweig" name="Hagenmarkt" lat="52267760" lon="10524608" lines="TM1,TM2,TM3,TM4"></row>
+    <row _id="26000167" place="Braunschweig" name="Hahnenkleestraße" lat="52219472" lon="10502130" lines="BM13,B413,B465,B603,B620,B631"></row>
+    <row _id="26000168" place="Braunschweig" name="Hallestraße" lat="52233912" lon="10536490" lines="B431"></row>
+    <row _id="26000169" place="Braunschweig" name="Hamburger Straße" lat="52275028" lon="10521590" lines="TM1,TM2,BM19,BM29"></row>
+    <row _id="26000171" place="Braunschweig" name="Hans-Sommer-Straße" lat="52275392" lon="10535698" lines="BM16,BM29,B416,B433,B436,B443"></row>
+    <row _id="26000172" place="Braunschweig" name="Hansestraße West" lat="52321656" lon="10473938" lines="B484"></row>
+    <row _id="26000173" place="Braunschweig" name="Hansestraße Mitte" lat="52313832" lon="10497140" lines="B484"></row>
+    <row _id="26000174" place="Braunschweig" name="Hartgerstraße" lat="52263588" lon="10547638" lines="BM13,B413"></row>
+    <row _id="26000175" place="Braunschweig" name="Harzblick" lat="52231824" lon="10484966" lines=""></row>
+    <row _id="26000176" place="Braunschweig" name="Flugunfalluntersuchungsstelle" lat="52313772" lon="10552850" lines="BM13,B413,B436"></row>
+    <row _id="26000177" place="Braunschweig" name="Hauptbahnhof Süd" lat="52251964" lon="10543060" lines="B422"></row>
+    <row _id="26000178" place="Braunschweig" name="Hauptbahnhof" lat="52252596" lon="10538718" lines="TM1,TM2,T4,TM5,BSEV1,BSEV2,BM11,BM19,BM29,B411,B420,B620,B730"></row>
+    <row _id="26000179" place="Braunschweig" name="Hauptfriedhof" lat="52255124" lon="10556336" lines="T4,B412,B431,B452"></row>
+    <row _id="26000181" place="Braunschweig" name="Havelstraße" lat="52245608" lon="10481634" lines="B443,B445,B455"></row>
+    <row _id="26000182" place="Braunschweig" name="Heesfeld" lat="52305972" lon="10482154" lines="B414"></row>
+    <row _id="26000184" place="Braunschweig" name="Heideblick" lat="52326112" lon="10508572" lines="TM1,B111,B112,B191,B434"></row>
+    <row _id="26000185" place="Braunschweig" name="Heidehöhe" lat="52236172" lon="10562918" lines="B412"></row>
+    <row _id="26000187" place="Braunschweig" name="Heinrich-Büssing-Ring" lat="52251688" lon="10535934" lines="TM1,BM11,B411,B431"></row>
+    <row _id="26000188" place="Braunschweig" name="Noetherstraße" lat="52245688" lon="10574542" lines="B412"></row>
+    <row _id="26000189" place="Braunschweig" name="Helenenstraße" lat="52252672" lon="10509826" lines="BM19,BM29,B443"></row>
+    <row _id="26000192" place="Braunschweig" name="Hildesheimer Straße" lat="52272304" lon="10492648" lines="BM11,B411,B433,B450,B461"></row>
+    <row _id="26000193" place="Braunschweig" name="Hinter den Hainen" lat="52225308" lon="10568274" lines="BM11,B411,B431"></row>
+    <row _id="26000194" place="Braunschweig" name="Hochstraße" lat="52262316" lon="10538454" lines="BM11,BM13,B411,B413,B418,B422"></row>
+    <row _id="26000195" place="Braunschweig" name="Großes Weghaus" lat="52210532" lon="10523554" lines="TM1,BSEV1"></row>
+    <row _id="26000196" place="Braunschweig" name="Westerbergstraße" lat="52226900" lon="10503976" lines="BM13,B413"></row>
+    <row _id="26000197" place="Braunschweig" name="Holzmindener Straße" lat="52242072" lon="10535908" lines="BM11,B411,B431"></row>
+    <row _id="26000198" place="Braunschweig" name="Julius-Konegen-Straße" lat="52277144" lon="10498746" lines="B422"></row>
+    <row _id="26000202" place="Braunschweig" name="Hordorfer Straße" lat="52280916" lon="10614860" lines="B427"></row>
+    <row _id="26000205" place="Braunschweig" name="Hühnerkamp" lat="52278104" lon="10611430" lines="B427"></row>
+    <row _id="26000207" place="Braunschweig" name="Hüttenweg" lat="52271796" lon="10439640" lines="BM11,B411"></row>
+    <row _id="26000208" place="Braunschweig" name="Boeselagerstraße" lat="52307608" lon="10547972" lines="B436"></row>
+    <row _id="26000210" place="Braunschweig" name="Im Großen Moore" lat="52321900" lon="10538028" lines="B424"></row>
+    <row _id="26000211" place="Braunschweig" name="Im Seumel" lat="52234416" lon="10507202" lines="BM13,B413"></row>
+    <row _id="26000212" place="Braunschweig" name="Im Steinkampe" lat="52317864" lon="10515918" lines="B424,B434"></row>
+    <row _id="26000214" place="Braunschweig" name="Duisburger Straße" lat="52289912" lon="10553232" lines="B443"></row>
+    <row _id="26000215" place="Braunschweig" name="Neunkirchener Straße" lat="52273912" lon="10472602" lines="B422"></row>
+    <row _id="26000217" place="Braunschweig" name="Inselwall" lat="52267600" lon="10514992" lines="TM4"></row>
+    <row _id="26000218" place="Braunschweig" name="Zum Wiesengrund" lat="52290156" lon="10492618" lines="BM16,B416"></row>
+    <row _id="26000219" place="Braunschweig" name="Isarstraße" lat="52242584" lon="10479880" lines="B443,B445,B455"></row>
+    <row _id="26000221" place="Braunschweig" name="John.- F.-Kennedy-Platz" lat="52258396" lon="10527524" lines="TM1,TM2,T4,T5,BM19,BM29,B420,B603,B620,B631,B730"></row>
+    <row _id="26000222" place="Braunschweig" name="Jägersruh" lat="52226704" lon="10553790" lines=""></row>
+    <row _id="26000223" place="Braunschweig" name="Jahnplatz" lat="52246112" lon="10528814" lines="TM1,T2,BSEV1,BSEV2"></row>
+    <row _id="26000224" place="Braunschweig" name="Rühmer Weg" lat="52292248" lon="10526460" lines=""></row>
+    <row _id="26000225" place="Braunschweig" name="Jasperallee" lat="52267932" lon="10540026" lines="BM11,BM16,BM19,BM29,B411,B416,B418,B422,B436,B443"></row>
+    <row _id="26000226" place="Braunschweig" name="J.-Fraunhofer-Straße" lat="52281920" lon="10565130" lines="BM13,B413"></row>
+    <row _id="26000227" place="Braunschweig" name="Jüdelstraße" lat="52231344" lon="10558812" lines="B431"></row>
+    <row _id="26000228" place="Braunschweig" name="Julius-Elster-Straße" lat="52245820" lon="10566010" lines="B412"></row>
+    <row _id="26000229" place="Braunschweig" name="Kälberwiese" lat="52266872" lon="10500098" lines="BM19,BM29,B422,B461"></row>
+    <row _id="26000230" place="Braunschweig" name="Kanalbrücke" lat="52316372" lon="10488428" lines="B484"></row>
+    <row _id="26000232" place="Braunschweig" name="Karl-Sprengel-Straße" lat="52302504" lon="10436312" lines="BM16,B416,B433"></row>
+    <row _id="26000233" place="Braunschweig" name="Kasernenstraße" lat="52266128" lon="10533370" lines="BM11,BM16,B411,B416,B418,B422,B443"></row>
+    <row _id="26000234" place="Braunschweig" name="Kastanienallee" lat="52262948" lon="10543060" lines="BM11,BM13,BM19,BM29,B411,B413,B418,B436"></row>
+    <row _id="26000235" place="Braunschweig" name="Herzogin-Elisabeth-Straße" lat="52261456" lon="10553936" lines="B422"></row>
+    <row _id="26000236" place="Braunschweig" name="Weizenbleek" lat="52291244" lon="10511636" lines="B454"></row>
+    <row _id="26000252" place="Braunschweig" name="Steinriedendamm" lat="52303000" lon="10540802" lines="BM16,B416,B436"></row>
+    <row _id="26000253" place="Braunschweig" name="Efeuweg" lat="52281344" lon="10560390" lines="B433,B443"></row>
+    <row _id="26000255" place="Braunschweig" name="Helmstedter Straße" lat="52255052" lon="10561840" lines="T4,B412,B431,B452,B730"></row>
+    <row _id="26000256" place="Braunschweig" name="Kremsweg" lat="52239208" lon="10478610" lines="B445,B455"></row>
+    <row _id="26000257" place="Braunschweig" name="Kreuzteich" lat="52270176" lon="10570708" lines="BM13,B413,B418"></row>
+    <row _id="26000258" place="Braunschweig" name="Kröppelberg" lat="52258140" lon="10466996" lines="B418"></row>
+    <row _id="26000259" place="Braunschweig" name="Kruckweg" lat="52233892" lon="10486982" lines="TM5"></row>
+    <row _id="26000261" place="Braunschweig" name="Lägenkamp" lat="52306960" lon="10573828" lines="B433"></row>
+    <row _id="26000264" place="Braunschweig" name="Am Wendentor" lat="52270708" lon="10523478" lines="TM1,TM2"></row>
+    <row _id="26000265" place="Braunschweig" name="HEH-Kliniken" lat="52233100" lon="10529246" lines="TM1,T2,BSEV1,BSEV2"></row>
+    <row _id="26000266" place="Braunschweig" name="Leisewitzstraße" lat="52253808" lon="10528464" lines="T2"></row>
+    <row _id="26000267" place="Braunschweig" name="Lehmweg" lat="52240176" lon="10584888" lines="B431"></row>
+    <row _id="26000272" place="Braunschweig" name="Leonhardplatz (Stadthalle)" lat="52258748" lon="10540600" lines="TM4,TM5,BM11,BM19,BM29,B411,B436"></row>
+    <row _id="26000273" place="Braunschweig" name="Zollkamp" lat="52224312" lon="10503770" lines="BM13,B413,B603,B620,B631"></row>
+    <row _id="26000274" place="Braunschweig" name="Lichtenberger Straße" lat="52249084" lon="10480286" lines="B443,B445,B455"></row>
+    <row _id="26000277" place="Braunschweig" name="Liegnitzstraße" lat="52228984" lon="10525752" lines="B431"></row>
+    <row _id="26000278" place="Braunschweig" name="Ligusterweg" lat="52293904" lon="10511698" lines="B454"></row>
+    <row _id="26000279" place="Braunschweig" name="Lincolnsiedlung" lat="52310940" lon="10514742" lines="TM1,B424,B484"></row>
+    <row _id="26000280" place="Braunschweig" name="Hans-Geitel-Straße" lat="52248232" lon="10565920" lines="B412"></row>
+    <row _id="26000281" place="Braunschweig" name="Luisenstraße" lat="52256144" lon="10510970" lines="TM3,TM5,B461"></row>
+    <row _id="26000283" place="Braunschweig" name="Madamenweg" lat="52260672" lon="10502878" lines="BM19,BM29,B418,B443"></row>
+    <row _id="26000284" place="Braunschweig" name="Marienberger Straße" lat="52239772" lon="10508758" lines="BM13,B413"></row>
+    <row _id="26000285" place="Braunschweig" name="Marienstift" lat="52258636" lon="10544332" lines="TM4,B422"></row>
+    <row _id="26000286" place="Braunschweig" name="Maschstraße" lat="52268692" lon="10510914" lines="BM11,BM16,B411,B416,B450,B480,B560"></row>
+    <row _id="26000287" place="Braunschweig" name="Maybachstraße" lat="52299176" lon="10509840" lines="B414"></row>
+    <row _id="26000289" place="Braunschweig" name="Friedrichshöhe" lat="52200896" lon="10492594" lines="B603"></row>
+    <row _id="26000290" place="Braunschweig" name="Messeweg" lat="52278848" lon="10567396" lines="TM3,BM13,B230,B413"></row>
+    <row _id="26000291" place="Braunschweig" name="Messegelände Nordeingang" lat="52248808" lon="10517514" lines="BM13,BM19,BM29,B413"></row>
+    <row _id="26000293" place="Braunschweig" name="Michelfelderplatz" lat="52299984" lon="10541944" lines="BM16,B416,B436"></row>
+    <row _id="26000296" place="Braunschweig" name="Möwenweg" lat="52309064" lon="10588274" lines="B433"></row>
+    <row _id="26000297" place="Braunschweig" name="Moorhüttenweg" lat="52283872" lon="10582976" lines="TM3,B230,B417,B427"></row>
+    <row _id="26000298" place="Braunschweig" name="Mühlenpfordtstraße" lat="52273768" lon="10524346" lines="TM1,TM2"></row>
+    <row _id="26000300" place="Braunschweig" name="Münzstraße" lat="52262240" lon="10523568" lines="BM11,BM13,BM16,B411,B413,B416,B418,B422,B443,B450,B480,B560"></row>
+    <row _id="26000302" place="Braunschweig" name="Nehrkornweg" lat="52269404" lon="10577492" lines="B418"></row>
+    <row _id="26000303" place="Braunschweig" name="Neudammstraße" lat="52269816" lon="10445832" lines="B450"></row>
+    <row _id="26000304" place="Braunschweig" name="Neuruppinstraße" lat="52303796" lon="10463476" lines="B433"></row>
+    <row _id="26000306" place="Braunschweig" name="Nibelungenplatz" lat="52287800" lon="10527070" lines="TM2,BM16,B416"></row>
+    <row _id="26000307" place="Braunschweig" name="Nietzschestraße" lat="52230752" lon="10565568" lines="B431"></row>
+    <row _id="26000309" place="Braunschweig" name="Nordbad" lat="52293644" lon="10540068" lines="BM16,B416,B436"></row>
+    <row _id="26000310" place="Braunschweig" name="Nordhoffstraße" lat="52303980" lon="10515824" lines="TM1"></row>
+    <row _id="26000311" place="Braunschweig" name="Nordstraße" lat="52277532" lon="10534966" lines="BM16,B416,B436"></row>
+    <row _id="26000312" place="Braunschweig" name="Nußbergstraße" lat="52266792" lon="10549522" lines="B418,B422"></row>
+    <row _id="26000313" place="Braunschweig" name="Nußberg" lat="52267360" lon="10560266" lines="BM13,B413,B418"></row>
+    <row _id="26000314" place="Braunschweig" name="Otto-von-Guericke-Straße" lat="52245992" lon="10512792" lines="BM13,BM19,BM29,B413"></row>
+    <row _id="26000315" place="Braunschweig" name="Hintern Brüdern" lat="52265836" lon="10517818" lines="BM11,BM13,BM16,B411,B413,B416,B418,B422,B443,B450,B480,B560"></row>
+    <row _id="26000317" place="Braunschweig" name="Ohefeld" lat="52296604" lon="10524704" lines=""></row>
+    <row _id="26000318" place="Braunschweig" name="Maschplatz" lat="52273764" lon="10513004" lines="BM19,BM29,B433"></row>
+    <row _id="26000319" place="Braunschweig" name="Ottenroder Straße" lat="52286500" lon="10541974" lines="TM2"></row>
+    <row _id="26000320" place="Braunschweig" name="Ottweilerstraße" lat="52273568" lon="10485980" lines="BM11,B411,B433,B461,B560"></row>
+    <row _id="26000321" place="Braunschweig" name="PTB" lat="52295604" lon="10457254" lines="B433,B461"></row>
+    <row _id="26000322" place="Braunschweig" name="Packhof" lat="52265396" lon="10521948" lines="BM11,BM13,BM16,B411,B413,B416,B418,B422,B443,B450,B480,B560"></row>
+    <row _id="26000323" place="Braunschweig" name="Pappelallee" lat="52318524" lon="10533716" lines="B424"></row>
+    <row _id="26000324" place="Braunschweig" name="Pappelbergsiedlung" lat="52285336" lon="10564386" lines="BM13,B413,B433,B443"></row>
+    <row _id="26000325" place="Braunschweig" name="Paracelsusstraße" lat="52284572" lon="10456878" lines="BM11,B411,B433,B461,B560"></row>
+    <row _id="26000326" place="Braunschweig" name="Paxmannstraße" lat="52242652" lon="10583176" lines="B412,B431"></row>
+    <row _id="26000327" place="Braunschweig" name="Peterskamp" lat="52304936" lon="10569812" lines="BM13,B413,B433"></row>
+    <row _id="26000328" place="Braunschweig" name="Petristraße" lat="52268936" lon="10505896" lines="BM11,B411"></row>
+    <row _id="26000329" place="Braunschweig" name="Petzvalstraße" lat="52281720" lon="10576744" lines="TM3"></row>
+    <row _id="26000331" place="Braunschweig" name="Pfleidererstraße" lat="52282992" lon="10461090" lines="BM11,B411,B433,B461"></row>
+    <row _id="26000332" place="Braunschweig" name="Pockelsstraße" lat="52275504" lon="10528478" lines="BM19,BM29,B433"></row>
+    <row _id="26000335" place="Braunschweig" name="Ludwigstraße" lat="52278820" lon="10522292" lines="TM1,TM2"></row>
+    <row _id="26000336" place="Braunschweig" name="Prinz-Albrecht-Park" lat="52264200" lon="10551630" lines="BM13,B413,B418,B422"></row>
+    <row _id="26000337" place="Braunschweig" name="Querumer Straße" lat="52278612" lon="10557584" lines="TM3,B433,B443"></row>
+    <row _id="26000338" place="Braunschweig" name="Radeklint" lat="52267340" lon="10514164" lines="TM4,BM11,BM16,B411,B416,B450,B480,B560"></row>
+    <row _id="26000339" place="Braunschweig" name="Raffteichbad" lat="52257204" lon="10456040" lines="B418"></row>
+    <row _id="26000340" place="Braunschweig" name="Raffturm" lat="52260208" lon="10451612" lines="B450"></row>
+    <row _id="26000341" place="Braunschweig" name="Zivildienstschule" lat="52249340" lon="10542280" lines="B422"></row>
+    <row _id="26000342" place="Braunschweig" name="Rathaus" lat="52264932" lon="10527264" lines="TM1,TM2,TM3,TM4,BM11,BM13,BM16,B230,B411,B413,B416,B418,B420,B422,B450,B560"></row>
+    <row _id="26000343" place="Braunschweig" name="Neuer Kamp" lat="52233184" lon="10554924" lines="BM11,B411"></row>
+    <row _id="26000344" place="Braunschweig" name="Rautheimer Straße" lat="52247116" lon="10570684" lines="B412"></row>
+    <row _id="26000345" place="Braunschweig" name="Reitlingstraße" lat="52251936" lon="10576448" lines="B412,B431,B452,B730"></row>
+    <row _id="26000348" place="Braunschweig" name="Reuchlinstraße" lat="52258512" lon="10471842" lines="B418"></row>
+    <row _id="26000349" place="Braunschweig" name="Richard-Strauß-Weg" lat="52276888" lon="10541772" lines="B433,B443"></row>
+    <row _id="26000350" place="Braunschweig" name="Rheinring" lat="52248424" lon="10472108" lines="TM3"></row>
+    <row _id="26000351" place="Braunschweig" name="Rhönweg" lat="52231112" lon="10505684" lines="BM13,B413"></row>
+    <row _id="26000352" place="Braunschweig" name="Richmondweg" lat="52240840" lon="10527754" lines="TM1,T2,BSEV1,BSEV2,B420"></row>
+    <row _id="26000353" place="Braunschweig" name="Rodedamm" lat="52269528" lon="10439318" lines="BM11,B411,B450"></row>
+    <row _id="26000354" place="Braunschweig" name="Rodelandweg" lat="52307392" lon="10536762" lines="BM16,B416"></row>
+    <row _id="26000355" place="Braunschweig" name="Rudolfplatz" lat="52270140" lon="10501000" lines="BM11,BM19,BM29,B411,B422,B433,B450,B461,B560"></row>
+    <row _id="26000356" place="Braunschweig" name="Grundschule Rüningen" lat="52223148" lon="10503410" lines=""></row>
+    <row _id="26000357" place="Braunschweig" name="Rüningenstraße" lat="52216576" lon="10501402" lines="BM13,B413,B465,B603,B620,B631"></row>
+    <row _id="26000358" place="Braunschweig" name="Hansestraße Ost" lat="52307384" lon="10513330" lines="TM1,B484"></row>
+    <row _id="26000359" place="Braunschweig" name="Saalestraße" lat="52244524" lon="10471114" lines="TM3"></row>
+    <row _id="26000360" place="Braunschweig" name="Saarbrückener Straße" lat="52277432" lon="10473890" lines="BM11,B411,B433,B461"></row>
+    <row _id="26000361" place="Braunschweig" name="Saarplatz" lat="52275100" lon="10479132" lines="BM11,B411,B422,B433,B461,B560"></row>
+    <row _id="26000362" place="Braunschweig" name="Sachsendamm" lat="52228216" lon="10531668" lines="TM1,T2,BSEV1,BSEV2,B431"></row>
+    <row _id="26000363" place="Braunschweig" name="Staatl. Untersuchungsämter" lat="52234260" lon="10545696" lines="BM11,B411,B471"></row>
+    <row _id="26000364" place="Braunschweig" name="Klinikum Salzdahlumer Straße" lat="52237256" lon="10543472" lines="BM11,B411,B431,B471"></row>
+    <row _id="26000365" place="Braunschweig" name="Salzdahlumer Weg" lat="52204508" lon="10525806" lines="TM1,BSEV1"></row>
+    <row _id="26000366" place="Braunschweig" name="Sandanger" lat="52305788" lon="10502236" lines="B414"></row>
+    <row _id="26000368" place="Braunschweig" name="Schapenstraße" lat="52280768" lon="10605110" lines="B427"></row>
+    <row _id="26000369" place="Braunschweig" name="Schenkendamm" lat="52208344" lon="10498536" lines="BM13,B413"></row>
+    <row _id="26000370" place="Braunschweig" name="Schillstraße" lat="52257352" lon="10545604" lines="B730"></row>
+    <row _id="26000371" place="Braunschweig" name="Benzstraße" lat="52310708" lon="10504762" lines="B484"></row>
+    <row _id="26000372" place="Braunschweig" name="Schlesierweg" lat="52302968" lon="10472188" lines="BM16,B416,B480"></row>
+    <row _id="26000373" place="Braunschweig" name="Schmalbachstraße" lat="52297592" lon="10517160" lines="TM1,B414"></row>
+    <row _id="26000374" place="Braunschweig" name="Schöppenstedter Turm" lat="52250624" lon="10592392" lines="B452,B730"></row>
+    <row _id="26000375" place="Braunschweig" name="Hermann-Blenk-Str." lat="52314296" lon="10534802" lines="B436"></row>
+    <row _id="26000376" place="Braunschweig" name="Schützenplatz" lat="52283484" lon="10518876" lines="TM1,TM2"></row>
+    <row _id="26000378" place="Braunschweig" name="Schulgasse" lat="52223592" lon="10564160" lines=""></row>
+    <row _id="26000379" place="Braunschweig" name="Schwarzer Kamp" lat="52259320" lon="10481228" lines="B418"></row>
+    <row _id="26000380" place="Braunschweig" name="Seikenkamp" lat="52287892" lon="10602070" lines="B427"></row>
+    <row _id="26000381" place="Braunschweig" name="Senefelderstraße" lat="52214924" lon="10530742" lines="B431"></row>
+    <row _id="26000382" place="Braunschweig" name="Siedlerstraße" lat="52215092" lon="10520492" lines="TM1,BSEV1"></row>
+    <row _id="26000383" place="Braunschweig" name="Siegfriedstraße" lat="52286760" lon="10538582" lines="TM2,BM16,B416,B436"></row>
+    <row _id="26000384" place="Braunschweig" name="Friedrich-Wilhelm-Straße" lat="52261316" lon="10521296" lines="TM3,TM5,BM11,BM13,BM16,B411,B413,B416,B418,B422,B443,B450,B480,B560"></row>
+    <row _id="26000385" place="Braunschweig" name="Siekgraben" lat="52218888" lon="10520168" lines="TM1,BSEV1,B431"></row>
+    <row _id="26000386" place="Braunschweig" name="Sielkamp" lat="52293684" lon="10516264" lines="B454"></row>
+    <row _id="26000393" place="Braunschweig" name="St.-Wendel-Straße" lat="52279124" lon="10482988" lines="B422"></row>
+    <row _id="26000394" place="Braunschweig" name="Staatstheater" lat="52265792" lon="10530474" lines="BM11,BM13,BM16,B230,B411,B413,B416,B418,B422,B443"></row>
+    <row _id="26000395" place="Braunschweig" name="Stadion (Schwarzer Berg)" lat="52290552" lon="10518678" lines="TM1,B414,B454"></row>
+    <row _id="26000396" place="Braunschweig" name="Hauptpost" lat="52256588" lon="10540100" lines="T4,TM5,BM11,BM19,BM29,B411,B436"></row>
+    <row _id="26000397" place="Braunschweig" name="Stadtpark" lat="52269664" lon="10546370" lines="B418,B422"></row>
+    <row _id="26000399" place="Braunschweig" name="Donnerbleek" lat="52232628" lon="10471570" lines="B465"></row>
+    <row _id="26000401" place="Braunschweig" name="Steinkamp" lat="52289492" lon="10596850" lines="B230,B417,B427"></row>
+    <row _id="26000402" place="Braunschweig" name="Steintor" lat="52263040" lon="10533924" lines="BM11,BM13,B411,B413,B418,B422"></row>
+    <row _id="26000407" place="Braunschweig" name="Stöckheim Schulzentrum" lat="52217984" lon="10517092" lines=""></row>
+    <row _id="26000409" place="Braunschweig" name="Strombeckstraße" lat="52258912" lon="10476366" lines="B418"></row>
+    <row _id="26000410" place="Braunschweig" name="Südstraße" lat="52259752" lon="10515824" lines="BM13,B413"></row>
+    <row _id="26000412" place="Braunschweig" name="Theaterwall" lat="52269232" lon="10529948" lines="TM3"></row>
+    <row _id="26000413" place="Braunschweig" name="Thiedebacher Weg" lat="52207456" lon="10504006" lines="BM13,B413"></row>
+    <row _id="26000414" place="Braunschweig" name="Tiergarten Nord" lat="52281448" lon="10444730" lines="BM11,B411"></row>
+    <row _id="26000415" place="Braunschweig" name="Tiergarten" lat="52279304" lon="10442374" lines="BM11,B411"></row>
+    <row _id="26000416" place="Braunschweig" name="Timmerlahstraße" lat="52239192" lon="10474892" lines="B445,B455"></row>
+    <row _id="26000417" place="Braunschweig" name="Tostmannplatz" lat="52296284" lon="10540878" lines="BM16,B416,B436"></row>
+    <row _id="26000418" place="Braunschweig" name="Trierstraße" lat="52278964" lon="10489150" lines="B422"></row>
+    <row _id="26000419" place="Braunschweig" name="Triftstraße" lat="52250824" lon="10585824" lines="B412,B431"></row>
+    <row _id="26000421" place="Braunschweig" name="Tuckermannstraße" lat="52264692" lon="10505430" lines="B422"></row>
+    <row _id="26000423" place="Braunschweig" name="Turmstraße" lat="52234320" lon="10482152" lines="TM5,B465"></row>
+    <row _id="26000425" place="Braunschweig" name="Unter den Linden" lat="52305020" lon="10488324" lines="B414"></row>
+    <row _id="26000428" place="Braunschweig" name="Varrentrappstraße" lat="52280152" lon="10505164" lines="BM16,B416"></row>
+    <row _id="26000430" place="Braunschweig" name="Westfalenplatz" lat="52290004" lon="10556606" lines="B443"></row>
+    <row _id="26000437" place="Braunschweig" name="Gosekamp" lat="52305872" lon="10451888" lines="BM16,B416,B433"></row>
+    <row _id="26000438" place="Braunschweig" name="Schulzentrum Volkmarode" lat="52287464" lon="10599958" lines="B427"></row>
+    <row _id="26000439" place="Braunschweig" name="von Pawelsches Holz" lat="52280720" lon="10465778" lines="BM11,B411,B433,B461"></row>
+    <row _id="26000440" place="Braunschweig" name="Waisenhausdamm" lat="52261736" lon="10524900" lines=""></row>
+    <row _id="26000441" place="Braunschweig" name="Waller Weg" lat="52308616" lon="10483900" lines="B414"></row>
+    <row _id="26000442" place="Braunschweig" name="Wartheweg" lat="52308920" lon="10533222" lines="BM16,B416"></row>
+    <row _id="26000448" place="Braunschweig" name="Geibelstraße" lat="52319016" lon="10509620" lines="TM1"></row>
+    <row _id="26000451" place="Braunschweig" name="Welfenplatz" lat="52233872" lon="10558870" lines="BM11,B411,B412,B431,B471"></row>
+    <row _id="26000452" place="Braunschweig" name="Wendebrück" lat="52330624" lon="10518936" lines="B191"></row>
+    <row _id="26000454" place="Braunschweig" name="Wendener Weg" lat="52307548" lon="10493146" lines="B414"></row>
+    <row _id="26000455" place="Braunschweig" name="Weserstraße" lat="52242088" lon="10470464" lines="TM3"></row>
+    <row _id="26000469" place="Braunschweig" name="Schefflerstraße" lat="52240024" lon="10538780" lines="BM11,B411,B431"></row>
+    <row _id="26000542" place="Braunschweig" name="Museumstraße" lat="52263432" lon="10531550" lines="TM4,TM5,BM11,BM13,B411,B413,B418,B422"></row>
+    <row _id="26000543" place="Braunschweig" name="Sandgrubenweg" lat="52238064" lon="10566542" lines="B412"></row>
+    <row _id="26000547" place="Braunschweig" name="Falkenhorst" lat="52309880" lon="10592658" lines="B433"></row>
+    <row _id="26000552" place="Braunschweig" name="An den Gärtnerhöfen" lat="52245740" lon="10496662" lines="B443"></row>
+    <row _id="26000553" place="Braunschweig" name="Veltenhöfer Straße" lat="52322624" lon="10509070" lines="TM1"></row>
+    <row _id="26000559" place="Braunschweig" name="Lammer Heide" lat="52266492" lon="10448492" lines="B450"></row>
+    <row _id="26000562" place="Braunschweig" name="Aschenkamp" lat="52328520" lon="10513246" lines="B111,B112,B191,B434"></row>
+    <row _id="26000564" place="Braunschweig" name="In den Waashainen" lat="52310616" lon="10537944" lines="B436"></row>
+    <row _id="26000569" place="Braunschweig" name="Brandenburgstraße" lat="52324224" lon="10513554" lines=""></row>
+    <row _id="26000572" place="Braunschweig" name="Gew.Geb.Bastholz Ost" lat="52309952" lon="10547174" lines="B436"></row>
+    <row _id="26000576" place="Braunschweig" name="Alter Rautheimer Weg" lat="52222836" lon="10569650" lines="BM11,B411,B431"></row>
+    <row _id="26000577" place="Braunschweig" name="Schreinerweg" lat="52234392" lon="10564290" lines="BM11,B411,B431"></row>
+    <row _id="26000578" place="Braunschweig" name="Zur Wabe" lat="52237028" lon="10584938" lines="B431"></row>
+    <row _id="26000579" place="Braunschweig" name="Hebbelstraße" lat="52247640" lon="10504970" lines="B443"></row>
+    <row _id="26000583" place="Braunschweig" name="Neckarstraße" lat="52241672" lon="10492294" lines="B443"></row>
+    <row _id="26000590" place="Braunschweig" name="Luftstraße" lat="52271976" lon="10486118" lines="B450"></row>
+    <row _id="26000591" place="Braunschweig" name="In den Rosenäckern" lat="52270928" lon="10481512" lines="B450"></row>
+    <row _id="26000592" place="Braunschweig" name="Am Zoo" lat="52220192" lon="10510494" lines=""></row>
+    <row _id="26000612" place="Braunschweig" name="Kreuztor" lat="52248284" lon="10584080" lines="B431"></row>
+    <row _id="26000613" place="Braunschweig" name="Am Spieltore" lat="52235884" lon="10579086" lines="B431"></row>
+    <row _id="26000614" place="Braunschweig" name="Buchfinkweg" lat="52229132" lon="10478026" lines="B465"></row>
+    <row _id="26000616" place="Braunschweig" name="Boltenberg" lat="52246784" lon="10580848" lines="B431"></row>
+    <row _id="26000620" place="Braunschweig" name="Militschstraße" lat="52226472" lon="10526734" lines="TM1,BSEV1,B431"></row>
+    <row _id="26000621" place="Braunschweig" name="Trakehnenstraße" lat="52222620" lon="10524348" lines="TM1"></row>
+    <row _id="26000622" place="Braunschweig" name="Stöckheimer Markt" lat="52213304" lon="10522040" lines="TM1,BSEV1,B431"></row>
+    <row _id="26000623" place="Braunschweig" name="Hohkamp" lat="52267324" lon="10437092" lines="BM11,B411"></row>
+    <row _id="26000624" place="Braunschweig" name="Backhausweg" lat="52267156" lon="10446522" lines="BM11,B411"></row>
+    <row _id="26000626" place="Braunschweig" name="Raabestraße" lat="52216640" lon="10499282" lines="B465"></row>
+    <row _id="26000627" place="Braunschweig" name="Pfingststraße" lat="52260584" lon="10497820" lines="B418"></row>
+    <row _id="26000633" place="Braunschweig" name="Ziegelwiese" lat="52290368" lon="10593716" lines="B417"></row>
+    <row _id="26000634" place="Braunschweig" name="Weinbergstraße" lat="52260504" lon="10493936" lines="B418"></row>
+    <row _id="26000666" place="Braunschweig" name="Lönsweg" lat="52319480" lon="10537474" lines="BM13,B413"></row>
+    <row _id="26000681" place="Braunschweig" name="Am Oberstiege" lat="52329820" lon="10564062" lines="BM13,B413,B424"></row>
+    <row _id="26000742" place="Braunschweig" name="Braunstraße" lat="52211096" lon="10499404" lines="BM13,B413,B603,B620,B631"></row>
+    <row _id="26000767" place="Braunschweig" name="Thiedebach" lat="52205516" lon="10495646" lines="B603,B620,B631"></row>
+    <row _id="26000814" place="Braunschweig" name="Steinhof" lat="52317872" lon="10451006" lines="B480"></row>
+    <row _id="26000829" place="Braunschweig" name="Bechtsbüttel Bahnhof" lat="52330156" lon="10522352" lines="B191"></row>
+    <row _id="26001176" place="Braunschweig" name="Hauptbahnhof (DB)" lat="52252504" lon="10540150" lines="I,R"></row>
+    <row _id="26002270" place="Braunschweig" name="Wilhelmstraße" lat="52266492" lon="10527524" lines="B730"></row>
+    <row _id="26006840" place="Braunschweig" name="Steinecke" lat="52309504" lon="10461216" lines="B480"></row>
+    <row _id="26009169" place="Braunschweig" name="Grabenhorst" lat="52342412" lon="10574032" lines=""></row>
+    <row _id="26009509" place="Braunschweig" name="Broitzemer Steinberg" lat="52231696" lon="10475594" lines="B465"></row>
+    <row _id="26009511" place="Braunschweig" name="Braunschweiger Verkehrs-AG" lat="52252992" lon="10555910" lines="TM4,B412,B431,B452"></row>
+</rows>
