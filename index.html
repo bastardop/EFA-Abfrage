@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>EVA Abfrage</title>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<style type="text/css">
+#socialbookmarksanzeigen {
+	background-color: #00CC00;
+	padding: 0.4em;
+}
+#sozialbookmarks {
+	background-color: orange;
+	padding: 0.4em;
+}
+</style>
+<script type="text/javascript">
+//start jQuery
+$(document).ready(function(){
+
+
+  $('#sobo-einblenden').click(function(){
+    $('#sozialbookmarks').toggle('slow');
+    //let's build a table
+    var table = $('<table/>').addClass('xsmall').addClass('tram-table');
+    var row = $('<tr/>');
+    row.append($('<td/>').html('Linie').addClass('description'));
+    row.append($('<td/>').html('Abfahrt').addClass('days dimmed'));
+    row.append($('<td/>').html('abzeit').addClass('days dimmed'));
+    row.append($('<td/>').html('Ankunft').addClass('days dimmed'));
+    row.append($('<td/>').html('anzeit').addClass('days dimmed'));
+    table.append(row);
+
+    //define start and stop IDs for transitroute
+    var depID = '26000354';
+    var arrID = '26000178';
+
+    //start AJAX XML call
+    $.ajax({
+      type: "GET",
+      url: "getxml.php?dep="+depID+"&arr="+arrID,
+      cache: false,
+      dataType: "xml",
+      success: function(xml) {
+        $(xml).find('itdRoute').each(function(){
+          var departure;
+          var arrival;
+          var deptime;
+          var arrtime;
+          var changes = $(this).attr('changes');
+          row = $('<tr/>');
+          //find first name of first transport
+          var busline = $(this).find('itdMeansOfTransport').attr('name');
+          row.append($('<td/>').html(busline).addClass('description'));
+
+          //i is to handle routes with changes
+          var i = 0;
+          //find routes
+          $(this).find('itdPartialRoute').each(function(){
+            //search for stations on the way
+            $(this).find('itdPoint').each(function(){
+              //search for departure station and time
+              if ( i == 0 && $(this).attr('usage') == 'departure'){
+               departure = $(this).attr('nameWO');
+               deptime = $(this).find('itdDateTimeTarget').children("itdTime").attr('hour')+':'+$(this).find('itdDateTimeTarget').children("itdTime").attr('minute');
+              }
+              //search for arrival station and time
+              else if (i == changes && $(this).attr('usage') == 'arrival'){
+               arrival = $(this).attr('nameWO');
+               arrtime = $(this).find('itdDateTimeTarget').children("itdTime").attr('hour')+':'+$(this).find('itdDateTimeTarget').children("itdTime").attr('minute');
+              }
+            });
+            i++;
+          })
+          //write evrything into the table
+          row.append($('<td/>').html(departure).addClass('description'));
+          row.append($('<td/>').html(deptime).addClass('description'));
+          row.append($('<td/>').html(arrival).addClass('description'));
+          row.append($('<td/>').html(arrtime).addClass('description'));
+          table.append(row);
+        });
+      }
+    })
+    //write the table into html
+    $(this).html(table);
+  })
+});
+</script>
+</head>
+<body>
+<h1>EFA Abfrage der BSVAG starten</h1>
+<p>nicht wundern, die EFA Schnittstelle ist sehr langsam</p>
+<p id="socialbookmarksanzeigen">
+  Auskunft
+  <a href="#" id="sobo-einblenden">abfragen</a>
+</p>
+</body>
+</html>
